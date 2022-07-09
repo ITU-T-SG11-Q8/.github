@@ -2,6 +2,10 @@
 
 This group is for prototyping protocols that are specified in ITU-T Q.8/11 as open source projects. We hope that this repository will serve as a tool to spread collaboration, improve standards, ensure interoperability, and more. We believe the cooperative open-source development activities will be helpful for identifying and patching problems during development (or even after the development) of Recommendations, and thus we can increase completeness and stability of Recommendations, as well as get hints for developing new Recommendations and its application services.
 
+## Member join
+
+If you want to join this group, [fill this form](https://forms.gle/mGx23qEydKVzHRWXA), and we will send you an invitation mail as soon as possible. However, you can access the source code without signing up.
+
 
 # ITU-T
 
